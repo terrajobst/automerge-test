@@ -1,1 +1,3 @@
 # automerge-test
+
+Some test
